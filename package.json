@@ -1,0 +1,14 @@
+{
+  "name": "aws-service-utils",
+  "version": "1.0.6",
+  "description": "This is a wrapper class for secrets manager",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedantu",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1095.0"
+  }
+}
